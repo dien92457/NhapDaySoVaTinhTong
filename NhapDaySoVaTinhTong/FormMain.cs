@@ -12,6 +12,7 @@ namespace NhapDaySoVaTinhTong
 {
     public partial class FormMain : Form
     {
+        //cmt
         public FormMain()
         {
             InitializeComponent();
